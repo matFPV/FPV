@@ -1,9 +1,9 @@
 ## FPV VTX power level table
 
 
-| proto | THING-TO-RANK |
-|-----:|---------------|
+|  proto | 25 | 100 |
+|-------:|----|-----|
 |     SM1|               |
 |     SM2|               |
-|     SM2,1|               |
-|     TR|                |
+|   SM2,1|               |
+|      TR|               |
