@@ -1,6 +1,7 @@
 <h1> custom defines for board clones <br>
 for boards using different IMU hardware than intended by official manufacturer
 </h1>
+
 BMI270 => ACCGYRO_BMI270
 
 BMI160 => ACCGYRO_BMI160
